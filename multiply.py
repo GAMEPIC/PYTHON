@@ -1,5 +1,5 @@
 a = int(input("enter your number: "))
-b = int(input34("enter your number: "))
+b = int(input("enter your number: "))
 
 c = (a*b)
 
